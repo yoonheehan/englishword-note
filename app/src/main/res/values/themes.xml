@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EnglishWord" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#315C4C</item>
+        <item name="colorPrimaryVariant">#23473A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#E9B949</item>
+        <item name="colorOnSecondary">#1E2A25</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F7F8F3</item>
+        <item name="android:navigationBarColor">#F7F8F3</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
